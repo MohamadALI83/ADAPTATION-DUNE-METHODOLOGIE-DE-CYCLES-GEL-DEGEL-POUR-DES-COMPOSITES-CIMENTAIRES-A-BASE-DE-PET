@@ -1,4 +1,4 @@
-# ADAPTATION-DUNE-METHODOLOGIE-DE-CYCLES-GEL-DEGEL-POUR-DES-COMPOSITES-CIMENTAIRES-A-BASE-DE-PET
+# ADAPTATION-DUNE-METHODOLOGIE-DE-CYCLES-GEL-DEGEL-POUR-DES-COMPOSITES-CIMENTAIRES-A-BASE-DE-GRANULATS-DE-PET
 Mohamad Ali, Rose-Marie Dheilly, Michele Queneudec tKint, Adeline Goullieux. ADAPTA TION DUNE METHODOLOGIE DE CYCLES GEL-DEGEL POUR DES COMPOSITES  CIMENTAIRES A BASEDEGRANULATSDEPET.Conference Internationale Francophone  NoMaD 2015, Nov 2015, Douai, France. 2015. &lt;hal-01349079>
 RESUMÉ : Les plastiques sont utilisés en grande quantité dans les emballages alimentaires. Leur 
 recyclage est une préoccupation majeure. Une des voies intéressantes est leur valorisation matière au 
